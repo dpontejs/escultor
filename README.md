@@ -7,3 +7,7 @@ O projeto foi passado com o struct Voxel definido e com os metodos pre-definidos
 A visualizacao das estruturas foi feita pelo software geoview, que consegue ler os arquivos .off gerados pelo metodo writeOFF().
 
 Apos a conclusao, a classe foi documentada utilizando o software doxygen.
+
+## Documentacao
+
+Para visualizar sua documentacao, executar o doxygen dentro do repositorio, as configuracoes estao definidas na Doxyfile.
